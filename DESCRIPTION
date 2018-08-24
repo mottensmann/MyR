@@ -8,5 +8,5 @@ Description: Some simple functions that are not covered by base
   License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1
-Imports: digitize, seqinr
+RoxygenNote: 6.1.0
+Imports: digitize, seqinr, ggplot2, dplyr, magrittr
